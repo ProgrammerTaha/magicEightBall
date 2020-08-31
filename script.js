@@ -13,3 +13,6 @@ userName ? `Hello, ${userName}!` : `Hello!`;
 //the question the user wants to ask the Magic Eight Ball
 let userQuestion = '';
 
+//logging
+console.log(`${userName} asks: ${userQuestion}`);
+
