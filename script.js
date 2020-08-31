@@ -19,3 +19,6 @@ console.log(`${userName} asks: ${userQuestion}`);
 //generate a random number between 0 and 7
 let randomNumber = Math.floor(Math.random() * 8);
 
+//
+let eightBall = '';
+
