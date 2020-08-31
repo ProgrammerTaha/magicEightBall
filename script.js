@@ -8,7 +8,7 @@ I will be easy Taha.
 let userName = '';
 
 //decides what to do if the user enters a name or not
-userName ? `Hello, ${userName}!` : `Hello!`;
+userName ? console.log(`Hello, ${userName}!`) : console.log(`Hello!`);
 
 //the question the user wants to ask the Magic Eight Ball
 let userQuestion = '';
