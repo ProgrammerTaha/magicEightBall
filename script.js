@@ -43,7 +43,7 @@ if (randomNumber === 0) {
 } else if (randomNumber === 7) {
   console.log("Signs point to yes");
 }
-// */
+*/
 /*
 switch (randomNumber) {
   case 0:
