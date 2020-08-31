@@ -24,6 +24,7 @@ let eightBall = "";
 
 //create a control flow that takes in the randomNumber
 //and then assigns eightBall to a reply that a Magic Eight Ball would return
+// just remove the /**/
 /*
 if (randomNumber === 0) {
   console.log("It is certain");
@@ -71,4 +72,3 @@ switch (randomNumber) {
     break;
 }
 */
-
